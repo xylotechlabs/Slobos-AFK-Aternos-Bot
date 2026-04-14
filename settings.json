@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "xylofun.aternos.me",
-    "port": 14591,
+    "ip": "xylofun.enderman.cloud",
+    "port": 45171,
     "version": "",
     "try-creative": false
   },
